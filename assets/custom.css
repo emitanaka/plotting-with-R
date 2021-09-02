@@ -1,0 +1,13 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.display.dataTable {
+  font-size: 15pt;
+}
+
+.monash-bg-blue a {
+  color: white!important;
+}
+
+.yellow a {
+  color: #FFEB3B!important;
+}
